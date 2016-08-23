@@ -13,5 +13,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/helloWorld"
-        android:text="Hello World!" />
+        android:text="Hello World! Enjoy &apos;Jump&apos; by Kris Kross!" />
 </RelativeLayout>
